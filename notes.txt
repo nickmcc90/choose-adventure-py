@@ -1,1 +1,9 @@
 first init
+
+1. Ask the user for their name. Store in variable.
+2. Welcome the user in a print statement.
+3. Create the first scenario and ask for input. Convert inputs to .lower()
+4. This will be the first if, elif, and else. Now create branching paths
+within each of the if and elif statments.!
+5. You can have many branching paths, or maybe store variables for the user to use later!
+6. Make it different.
